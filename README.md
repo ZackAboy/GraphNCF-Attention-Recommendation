@@ -24,7 +24,6 @@
   <li><a href="#results">Results</a></li>
   <li><a href="#project-structure">Project Structure</a></li>
   <li><a href="#references">References</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <hr>
